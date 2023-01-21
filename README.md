@@ -21,3 +21,7 @@ Install socket.io
 ### `node index.js`
 
 This will start the server and you can open http://localhost:3000/
+
+## Demo is on below link
+
+https://chat-app-nm6i.onrender.com/
